@@ -1,0 +1,1 @@
+Dodałem zadania jakos osobne branche, by nie duplikować repozytoriów.
